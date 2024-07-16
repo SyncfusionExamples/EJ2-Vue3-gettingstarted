@@ -1,7 +1,7 @@
 export default {
   editor: {
     label: {
-      en: "Syncfusion Table",  // Change as per your component name
+      en: "App",  // Change as per your component name
     },
   },
   properties: {
